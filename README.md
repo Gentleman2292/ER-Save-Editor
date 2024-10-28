@@ -14,7 +14,7 @@ Tool for editing Elden Ring save files. Compatible with PC and Playstation Save 
 - Modify player name
 - Change player gender
 - Edit player stats
-- Modify soul count
+- Modify rune count
 - Add items, weapons, armors, ashes of war, and talismans to inventory
 - Add items in bulk to speed up build making process.
 - Browse inventory
